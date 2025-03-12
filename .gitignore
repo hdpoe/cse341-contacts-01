@@ -4,3 +4,5 @@
 tmp/
 
 notes.org
+node_modules/*
+.env
